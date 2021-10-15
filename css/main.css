@@ -27,6 +27,10 @@ header nav ul {
 header ul a {
   color: grey;
 }
+nav i {
+    color: grey;
+    margin-top: 20px;
+}
 .header-hero {
   width: 100%;
   height: 400px;
